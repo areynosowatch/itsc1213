@@ -3,7 +3,7 @@ import java.awt.Color;
 /**
  * This class describes a circle with a given radius and color.
  *
- * @author Ashley Reynoso
+ * @author Ashley Reynoso Marmolejos
  * @version Spring 25
  */
 
