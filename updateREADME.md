@@ -4,7 +4,10 @@
 Name: Ashley Reynoso Marmolejos  
 Email: areynoso@charlotte.edu
 UNC Charlotte ID: 801133223
-
+- Your GutHub user name.: areynosowatch
+- The name of this activity: itsc1213
+- `RectangleTest.java` program is this class describes a system where user inputs width and length.
+- `Circle.java` program is this class describes a solution to problem solve 19 with a given radius and color and area.
 
 
 ## Original source

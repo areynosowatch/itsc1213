@@ -1,7 +1,7 @@
 import java.awt.Color;
 
 /**
- * This class describes a solution to problem sovle 19 with a given radius and color.
+ * This class describes a solution to problem solve 19 with a given radius and color.
  *
  * @author Ashley Reynoso Marmolejos
  * @version July 15 2025
